@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GL+SH5SPOE8jY6dvVEgYf14nDJ2bKJtVUAR4Kg8+/1nrNyjbZVZD5tO2BsMBntWE5P9Jm8gxZ5CAryGhGX9gFA==",
+  "success": true,
+  "projectFilePath": "/Users/rebeccamorgan/Dropbox/Georgian/Semester 3/Server-Side-Scripting/Week2/COMP2084GetMeAGame/COMP2084-GameShop/COMP2084GameShop.csproj",
+  "expectedPackageFiles": [
+    "/Users/rebeccamorgan/.nuget/packages/carbon.data.protection/1.3.0/carbon.data.protection.1.3.0.nupkg.sha512",
+    "/Users/rebeccamorgan/.nuget/packages/carbon.packaging/1.43.0/carbon.packaging.1.43.0.nupkg.sha512",
+    "/Users/rebeccamorgan/.nuget/packages/carbon.storage/2.4.0/carbon.storage.2.4.0.nupkg.sha512",
+    "/Users/rebeccamorgan/.nuget/packages/carbon.versioncontrol/2.3.0/carbon.versioncontrol.2.3.0.nupkg.sha512",
+    "/Users/rebeccamorgan/.nuget/packages/carbon.versioning/1.8.1/carbon.versioning.1.8.1.nupkg.sha512",
+    "/Users/rebeccamorgan/.nuget/packages/github/1.27.0/github.1.27.0.nupkg.sha512"
+  ],
+  "logs": []
+}
